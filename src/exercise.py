@@ -1,9 +1,9 @@
 def main():
     #write your code below this line
   message = input ("Ada")
-  assert output == ("","Hi Ada")
+  print ("Hi Ada")
   message = input ("Lily")
-  assert output == ("", "Hi Lily")
+  print ("Hi Lily")
 
 
 if __name__ == '__main__':
